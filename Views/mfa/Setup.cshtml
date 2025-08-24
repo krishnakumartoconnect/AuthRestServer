@@ -1,0 +1,13 @@
+<h2>Set up MFA</h2>
+<p>Scan the QR code below with Google Authenticator or Microsoft Authenticator.</p>
+
+<img src="@ViewBag.QrCodeImage" alt="MFA QR Code" />
+
+<p>Or manually enter this secret: <strong>@ViewBag.Secret</strong></p>
+
+<form asp-action="Verify" method="post">
+    <label>Enter the 6-digit code from your app:</label>
+    <input type="text" name="code" class="form-control" required />
+    <input type="hidden" name="secret" value="@ViewBag.Secret" />
+    <button type="submit" class="btn btn-primary mt-2">Verify</button>
+</form>

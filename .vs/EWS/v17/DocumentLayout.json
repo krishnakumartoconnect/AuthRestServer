@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Krishna\\Projects\\EWS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|c:\\krishna\\projects\\ews\\controllers\\totpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|solutionrelative:controllers\\totpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|c:\\krishna\\projects\\ews\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|solutionrelative:controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|c:\\krishna\\projects\\ews\\controllers\\slackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|solutionrelative:controllers\\slackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|c:\\krishna\\projects\\ews\\services\\userstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|solutionrelative:services\\userstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|c:\\krishna\\projects\\ews\\services\\slackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|solutionrelative:services\\slackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|c:\\krishna\\projects\\ews\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|c:\\krishna\\projects\\ews\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|c:\\krishna\\projects\\ews\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|c:\\krishna\\projects\\ews\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|solutionrelative:services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|c:\\krishna\\projects\\ews\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|c:\\krishna\\projects\\ews\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|c:\\krishna\\projects\\ews\\views\\secrets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|solutionrelative:views\\secrets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|c:\\krishna\\projects\\ews\\views\\fido\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|solutionrelative:views\\fido\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|c:\\krishna\\projects\\ews\\views\\fido\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|solutionrelative:views\\fido\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|c:\\krishna\\projects\\ews\\services\\googlesecretmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|solutionrelative:services\\googlesecretmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|c:\\krishna\\projects\\ews\\interfaces\\isecretmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|solutionrelative:interfaces\\isecretmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|c:\\krishna\\projects\\ews\\controllers\\secretscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692D0F4E-1B65-02A1-EC4D-2AE3869DE394}|EWS.csproj|solutionrelative:controllers\\secretscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserStore.cs",
+              "DocumentMoniker": "C:\\Krishna\\Projects\\EWS\\Services\\UserStore.cs",
+              "RelativeDocumentMoniker": "Services\\UserStore.cs",
+              "ToolTip": "C:\\Krishna\\Projects\\EWS\\Services\\UserStore.cs",
+              "RelativeToolTip": "Services\\UserStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:10:34.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Krishna\\Projects\\EWS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Krishna\\Projects\\EWS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T11:09:19.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SlackController.cs",
+              "DocumentMoniker": "C:\\Krishna\\Projects\\EWS\\Controllers\\SlackController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SlackController.cs",
+              "ToolTip": "C:\\Krishna\\Projects\\EWS\\Controllers\\SlackController.cs",
+              "RelativeToolTip": "Controllers\\SlackController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:07:17.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "C:\\Krishna\\Projects\\EWS\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmailController.cs",
+              "ToolTip": "C:\\Krishna\\Projects\\EWS\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "Controllers\\EmailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:06:34.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SlackService.cs",
+              "DocumentMoniker": "C:\\Krishna\\Projects\\EWS\\Services\\SlackService.cs",
+              "RelativeDocumentMoniker": "Services\\SlackService.cs",
+              "ToolTip": "C:\\Krishna\\Projects\\EWS\\Services\\SlackService.cs",
+              "RelativeToolTip": "Services\\SlackService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:03:17.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Krishna\\Projects\\EWS\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailService.cs",
+              "ToolTip": "C:\\Krishna\\Projects\\EWS\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:02:33.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OtpService.cs",
+              "DocumentMoniker": "C:\\Krishna\\Projects\\EWS\\Services\\OtpService.cs",
+              "RelativeDocumentMoniker": "Services\\OtpService.cs",
+              "ToolTip": "C:\\Krishna\\Projects\\EWS\\Services\\OtpService.cs",
+              "RelativeToolTip": "Services\\OtpService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:01:46.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TOTPController.cs",
+              "DocumentMoniker": "C:\\Krishna\\Projects\\EWS\\Controllers\\TOTPController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TOTPController.cs",
+              "ToolTip": "C:\\Krishna\\Projects\\EWS\\Controllers\\TOTPController.cs",
+              "RelativeToolTip": "Controllers\\TOTPController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAEwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:52:27.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Krishna\\Projects\\EWS\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Krishna\\Projects\\EWS\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:00:56.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Krishna\\Projects\\EWS\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Krishna\\Projects\\EWS\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:00:30.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Krishna\\Projects\\EWS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Krishna\\Projects\\EWS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:55:18.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Krishna\\Projects\\EWS\\Views\\Secrets\\index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Secrets\\index.cshtml",
+              "ToolTip": "C:\\Krishna\\Projects\\EWS\\Views\\Secrets\\index.cshtml",
+              "RelativeToolTip": "Views\\Secrets\\index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T10:54:19.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Krishna\\Projects\\EWS\\Views\\Fido\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Fido\\Register.cshtml",
+              "ToolTip": "C:\\Krishna\\Projects\\EWS\\Views\\Fido\\Register.cshtml",
+              "RelativeToolTip": "Views\\Fido\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T10:54:14.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Krishna\\Projects\\EWS\\Views\\Fido\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Fido\\Login.cshtml",
+              "ToolTip": "C:\\Krishna\\Projects\\EWS\\Views\\Fido\\Login.cshtml",
+              "RelativeToolTip": "Views\\Fido\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T10:54:02.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GoogleSecretManager.cs",
+              "DocumentMoniker": "C:\\Krishna\\Projects\\EWS\\Services\\GoogleSecretManager.cs",
+              "RelativeDocumentMoniker": "Services\\GoogleSecretManager.cs",
+              "ToolTip": "C:\\Krishna\\Projects\\EWS\\Services\\GoogleSecretManager.cs",
+              "RelativeToolTip": "Services\\GoogleSecretManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:53:20.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ISecretManager.cs",
+              "DocumentMoniker": "C:\\Krishna\\Projects\\EWS\\Interfaces\\ISecretManager.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ISecretManager.cs",
+              "ToolTip": "C:\\Krishna\\Projects\\EWS\\Interfaces\\ISecretManager.cs",
+              "RelativeToolTip": "Interfaces\\ISecretManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:53:07.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SecretsController.cs",
+              "DocumentMoniker": "C:\\Krishna\\Projects\\EWS\\Controllers\\SecretsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SecretsController.cs",
+              "ToolTip": "C:\\Krishna\\Projects\\EWS\\Controllers\\SecretsController.cs",
+              "RelativeToolTip": "Controllers\\SecretsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:52:59.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

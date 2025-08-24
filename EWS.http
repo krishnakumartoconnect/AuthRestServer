@@ -1,0 +1,8 @@
+@MVC_FIM_HostAddress = http://localhost:5001
+
+POST {{EWS_HostAddress}}/PS/ExecutePSScript
+Accept: application/json
+
+POST {{EWS_HostAddress}}/PS/ExecutePSScriptV2
+Accept: application/json
+###
